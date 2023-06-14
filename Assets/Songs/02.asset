@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: 02
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: e21859b56fd6a6042881b8d21f83be8b, type: 3}
+  mAudioFilePath: 
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 20353.846153846156
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: New Section
+    startSample: 2645999
+    samplesPerBeat: 20353.846153846156
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  - sectionName: New Section
+    startSample: 3256612
+    samplesPerBeat: 20353.846153846156
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: b09959d578d2ff74fab4f4bb566ce660, type: 2}
